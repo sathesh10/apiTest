@@ -1,0 +1,1 @@
+export const COUNTER_DATA = 'COUNTER_DATA';
